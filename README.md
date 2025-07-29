@@ -46,5 +46,5 @@ Sigue estos pasos para levantar el proyecto localmente:
 ### 1. Clonar repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-proyecto>
+git clone https://github.com/JuanGuzmendoza/GestionMovimientos.git
+cd GestionMovimientos
